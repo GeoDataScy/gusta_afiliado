@@ -3,6 +3,11 @@
     { "source": "/_next/static/chunks/b674d794858115a0.js", "destination": "/assets/b674d794858115a0_c7788ca7c0f5.js" },
     { "source": "/_next/static/chunks/248cba0fcb3874ed.js", "destination": "/assets/248cba0fcb3874ed_a2c531b42d22.js" },
     { "source": "/_next/static/chunks/497f7b5edc7d3fce.js", "destination": "/assets/497f7b5edc7d3fce_232c64ddab96.js" },
-    { "source": "/_next/static/chunks/7057177779f7bed7.js", "destination": "/assets/7057177779f7bed7_bfd161bd53db.js" }
+    { "source": "/_next/static/chunks/7057177779f7bed7.js", "destination": "/assets/7057177779f7bed7_bfd161bd53db.js" },
+    { "source": "/_next/static/chunks/247eb132b7f7b574.js", "destination": "/assets/247eb132b7f7b574_f59a989a1248.js" },
+    { "source": "/_next/static/chunks/59d3d15d9729b431.js", "destination": "/assets/59d3d15d9729b431_19b8edab8133.js" },
+    { "source": "/_next/static/chunks/d77a4091ad9f22e5.js", "destination": "/assets/d77a4091ad9f22e5_6e2d2403fb3b.js" },
+    { "source": "/_next/static/chunks/a6dad97d9634a72d.js", "destination": "/assets/a6dad97d9634a72d_812cadebf6e8.js" },
+    { "source": "/_next/static/chunks/ff1a16fafef87110.js", "destination": "/assets/ff1a16fafef87110_da2f1784a960.js" }
   ]
 }
