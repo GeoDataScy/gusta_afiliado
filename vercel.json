@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/_next/static/chunks/b674d794858115a0.js", "destination": "/assets/b674d794858115a0_c7788ca7c0f5.js" },
+    { "source": "/_next/static/chunks/248cba0fcb3874ed.js", "destination": "/assets/248cba0fcb3874ed_a2c531b42d22.js" },
+    { "source": "/_next/static/chunks/497f7b5edc7d3fce.js", "destination": "/assets/497f7b5edc7d3fce_232c64ddab96.js" },
+    { "source": "/_next/static/chunks/7057177779f7bed7.js", "destination": "/assets/7057177779f7bed7_bfd161bd53db.js" }
+  ]
+}
